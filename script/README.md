@@ -20,7 +20,7 @@ The goal is to make sure all required files are created before generating the do
 
 [`script/build_docs`][build_docs] builds the documentation website.
 
-The result of this script is a directory to be publish via the `gh-pages` branch.
+The result of this script is a directory to be publish via the [`gh-pages`](https://github.com/RyanBalfanz/resume-proof-of-concept/tree/gh-pages) branch.
 
 [install]: ./install
 [build]: ./build
