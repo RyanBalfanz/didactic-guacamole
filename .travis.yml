@@ -1,0 +1,18 @@
+os: osx
+osx_image: xcode10.2
+install: pipenv --three install --deploy --dev
+addons:
+  homebrew:
+    packages:
+      - pipenv
+    update: true
+script: make
+after_success: make docs
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: false
+  local_dir: site
+  on:
+    branch: master
