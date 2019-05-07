@@ -1,6 +1,5 @@
 os: osx
 osx_image: xcode10.2
-install: pipenv --three install --deploy --dev
 addons:
   homebrew:
     packages:
@@ -9,6 +8,7 @@ addons:
     casks:
       - wkhtmltopdf
     update: true
+install: pipenv --three install --deploy --dev
 script: ./scripts/build
 after_success: ./scripts/build_docs
 deploy:
