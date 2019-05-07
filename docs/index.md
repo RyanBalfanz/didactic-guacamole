@@ -2,7 +2,7 @@
 
 ## Downloads
 
-A single Markdown is used to generate all other available formats. For details check out the [repository].
+A [single Markdown file](https://github.com/RyanBalfanz/didactic-guacamole/blob/master/resume.md) is used to generate all other available formats. For details check out the [repository].
 
 - [PDF][resume.pdf]
 - [DOCX][resume.docx]
