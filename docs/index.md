@@ -1,5 +1,7 @@
 # Resume
 
+[![Build Status](https://travis-ci.org/RyanBalfanz/didactic-guacamole.svg?branch=master)](https://travis-ci.org/RyanBalfanz/didactic-guacamole)
+
 ## Downloads
 
 A [single Markdown file](https://github.com/RyanBalfanz/didactic-guacamole/blob/master/resume.md) is used to generate all other available formats. For details check out the [repository].
