@@ -4,7 +4,9 @@ install: pipenv --three install --deploy --dev
 addons:
   homebrew:
     packages:
+      - pandoc
       - pipenv
+      - wkhtmltopdf
     update: true
 script: make
 after_success: make docs
