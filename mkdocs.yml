@@ -1,0 +1,16 @@
+site_author: Ryan Balfanz
+site_description: Resume of Ryan Balfanz resume in various formats
+site_name: RyanBalfanz/didactic-guacamole
+site_url: https://ryanbalfanz.github.io/didactic-guacamole/
+
+repo_name: ryanbalfanz/didactic-guacamole
+repo_url: https://github.com/ryanbalfanz/didactic-guacamole
+
+theme:
+  name: 'material'
+  include_sidebar: false
+
+nav:
+  - Downloads: 'index.md'
+  - PDF: 'static/balfanz_resume.pdf'
+  - DOCX: 'static/balfanz_resume.docx'
