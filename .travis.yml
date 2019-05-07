@@ -8,9 +8,9 @@ addons:
     casks:
       - wkhtmltopdf
     update: true
-install: pipenv --three install --deploy --dev
-script: ./scripts/build
-after_success: ./scripts/build_docs
+install: ./script/install
+script: ./script/build
+after_success: ./script/build_docs
 deploy:
   provider: pages
   skip_cleanup: true
