@@ -22,6 +22,6 @@ The goal is to make sure all required files are created before generating the do
 
 The result of this script is a directory to be publish via the `gh-pages` branch.
 
-[install]: script/install
-[build]: script/build
-[build_docs]: script/build_docs
+[install]: ./install
+[build]: ./build
+[build_docs]: ./build_docs
