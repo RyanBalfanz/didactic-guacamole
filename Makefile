@@ -24,6 +24,7 @@ DOWNLOADS_PREFIX = balfanz_
 all: build
 
 build: resume
+	mkdir -p $(BUILD_DIR)
 
 resume: $(ARTIFACTS)
 
