@@ -6,6 +6,7 @@ addons:
     packages:
       - pandoc
       - pipenv
+    casks:
       - wkhtmltopdf
     update: true
 script: ./scripts/build
