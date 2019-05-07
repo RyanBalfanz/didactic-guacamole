@@ -1,10 +1,10 @@
 site_author: Ryan Balfanz
 site_description: Resume of Ryan Balfanz resume in various formats
-site_name: RyanBalfanz/didactic-guacamole
-site_url: https://ryanbalfanz.github.io/didactic-guacamole/
+site_name: RyanBalfanz/resume-proof-of-concept
+site_url: https://ryanbalfanz.github.io/resume-proof-of-concept/
 
-repo_name: ryanbalfanz/didactic-guacamole
-repo_url: https://github.com/ryanbalfanz/didactic-guacamole
+repo_name: ryanbalfanz/resume-proof-of-concept
+repo_url: https://github.com/ryanbalfanz/resume-proof-of-concept
 
 theme:
   name: 'material'
