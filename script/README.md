@@ -4,6 +4,12 @@
 
 Each of these scripts is responsible for a unit of work. This way they can be called from other scripts.
 
+## script/install
+
+[`script/install`][install] installs the Python requirements.
+
+System dependencies configured via Travis CI.
+
 ## script/build
 
 [`script/build`][build] builds the additional resume formats from source Markdown resume.
@@ -16,5 +22,6 @@ The goal is to make sure all required files are created before generating the do
 
 The result of this script is a directory to be publish via the `gh-pages` branch.
 
+[install]: script/install
 [build]: script/build
 [build_docs]: script/build_docs
