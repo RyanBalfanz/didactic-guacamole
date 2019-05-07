@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://ryanbalfanz.github.io/resume-proof-of-concept/</loc>
+     <lastmod>2019-05-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ryanbalfanz.github.io/resume-proof-of-concept/static/balfanz_resume.pdf</loc>
+     <lastmod>2019-05-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ryanbalfanz.github.io/resume-proof-of-concept/static/balfanz_resume.docx</loc>
+     <lastmod>2019-05-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
