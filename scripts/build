@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+set -e
+set -o
+set -u
+set -x
+
+mkdir -p tmp
+mkdir -p docs/static
+make

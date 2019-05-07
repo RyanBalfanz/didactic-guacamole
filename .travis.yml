@@ -8,8 +8,8 @@ addons:
       - pipenv
       - wkhtmltopdf
     update: true
-script: make
-after_success: make docs
+script: ./scripts/build
+after_success: ./scripts/build_docs
 deploy:
   provider: pages
   skip_cleanup: true
